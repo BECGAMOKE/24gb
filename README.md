@@ -64,7 +64,7 @@ Cancel changes
 Для выполнения асинхронных методов:
 
     python worker.py
-
+ 
 
 
 
